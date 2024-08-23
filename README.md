@@ -1,2 +1,1 @@
-# se_test_hw1
-123123
+![Python](https://img.shields.io/badge/language-Python-blue)
